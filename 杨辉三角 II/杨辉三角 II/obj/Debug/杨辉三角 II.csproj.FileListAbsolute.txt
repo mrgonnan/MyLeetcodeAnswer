@@ -1,0 +1,7 @@
+C:\Users\38112\source\repos\杨辉三角 II\杨辉三角 II\bin\Debug\杨辉三角 II.exe.config
+C:\Users\38112\source\repos\杨辉三角 II\杨辉三角 II\bin\Debug\杨辉三角 II.exe
+C:\Users\38112\source\repos\杨辉三角 II\杨辉三角 II\bin\Debug\杨辉三角 II.pdb
+C:\Users\38112\source\repos\杨辉三角 II\杨辉三角 II\obj\Debug\杨辉三角 II.csprojAssemblyReference.cache
+C:\Users\38112\source\repos\杨辉三角 II\杨辉三角 II\obj\Debug\杨辉三角 II.csproj.CoreCompileInputs.cache
+C:\Users\38112\source\repos\杨辉三角 II\杨辉三角 II\obj\Debug\杨辉三角 II.exe
+C:\Users\38112\source\repos\杨辉三角 II\杨辉三角 II\obj\Debug\杨辉三角 II.pdb

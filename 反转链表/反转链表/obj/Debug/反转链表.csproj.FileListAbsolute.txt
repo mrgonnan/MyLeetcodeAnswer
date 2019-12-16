@@ -1,0 +1,7 @@
+C:\Users\38112\source\repos\反转链表\反转链表\bin\Debug\反转链表.exe.config
+C:\Users\38112\source\repos\反转链表\反转链表\bin\Debug\反转链表.exe
+C:\Users\38112\source\repos\反转链表\反转链表\bin\Debug\反转链表.pdb
+C:\Users\38112\source\repos\反转链表\反转链表\obj\Debug\反转链表.csprojAssemblyReference.cache
+C:\Users\38112\source\repos\反转链表\反转链表\obj\Debug\反转链表.csproj.CoreCompileInputs.cache
+C:\Users\38112\source\repos\反转链表\反转链表\obj\Debug\反转链表.exe
+C:\Users\38112\source\repos\反转链表\反转链表\obj\Debug\反转链表.pdb

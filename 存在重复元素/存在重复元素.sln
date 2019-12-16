@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "存在重复元素", "存在重复元素\存在重复元素.csproj", "{7655511F-0448-4E7D-82C8-D2D3C01F0788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7655511F-0448-4E7D-82C8-D2D3C01F0788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7655511F-0448-4E7D-82C8-D2D3C01F0788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7655511F-0448-4E7D-82C8-D2D3C01F0788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7655511F-0448-4E7D-82C8-D2D3C01F0788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C2D7FC0-6FFF-49EE-A489-51E1F1C4B861}
+	EndGlobalSection
+EndGlobal
